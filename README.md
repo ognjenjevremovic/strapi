@@ -86,7 +86,7 @@ Enjoy 🎉
 
 ### 🖐 Requirements
 
-Complete installation requirements can be found in the documentation under <a href="https://strapi.io/documentation/developer-docs/latest/installation/cli.html#step-1-make-sure-requirements-are-met">Installation Requirements</a>.
+Complete installation requirements can be found in the documentation under <a href="https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment.html#recommended-requirements">Installation Requirements</a>.
 
 **Supported operating systems**:
 
@@ -105,7 +105,7 @@ Complete installation requirements can be found in the documentation under <a hr
 
 **Database:**
 
-- MongoDB >= 3.6
+- MongoDB >= 3.6 ([dropping MongoDB support](https://forum.strapi.io/t/dropping-mongodb-support/) in next major version)
 - MySQL >= 5.6
 - MariaDB >= 10.1
 - PostgreSQL >= 10
@@ -121,7 +121,7 @@ Complete installation requirements can be found in the documentation under <a hr
 - **Blazing Fast:** Built on top of Node.js, Strapi delivers amazing performance.
 - **Front-end Agnostic:** Use any front-end framework (React, Vue, Angular, etc.), mobile apps or even IoT.
 - **Powerful CLI:** Scaffold projects and APIs on the fly.
-- **SQL & NoSQL databases:** Works with MongoDB, PostgreSQL, MySQL, MariaDB, and SQLite.
+- **SQL & NoSQL databases:** Works with MongoDB ([dropping MongoDB support](https://forum.strapi.io/t/dropping-mongodb-support/) in next major version), PostgreSQL, MySQL, MariaDB, and SQLite.
 
 **[See more on our website](https://strapi.io/overview)**.
 
@@ -133,7 +133,7 @@ Please read our [Contributing Guide](./CONTRIBUTING.md) before submitting a Pull
 
 For general help using Strapi, please refer to [the official Strapi documentation](https://strapi.io/documentation/). For additional help, you can use one of these channels to ask a question:
 
-- [Slack](https://slack.strapi.io) (For live discussion with the Community and Strapi team)
+- [Discord](https://discord.strapi.io) (For live discussion with the Community and Strapi team)
 - [GitHub](https://github.com/strapi/strapi) (Bug reports, Contributions)
 - [Community Forum](https://forum.strapi.io) (Questions and Discussions)
 - [Academy](https://academy.strapi.io) (Learn the fundamentals of Strapi)
@@ -144,7 +144,7 @@ For general help using Strapi, please refer to [the official Strapi documentatio
 
 ## Migration
 
-Follow our [migration guides](https://strapi.io/documentation/developer-docs/latest/migration-guide/#migrations-guides) on the documentation to keep your projects up-to-date.
+Follow our [migration guides](https://strapi.io/documentation/developer-docs/latest/update-migration-guides/migration-guides.html) on the documentation to keep your projects up-to-date.
 
 ## Roadmap
 
@@ -154,8 +154,8 @@ Check out our [roadmap](https://portal.productboard.com/strapi) to get informed 
 
 See our dedicated [repository](https://github.com/strapi/documentation) for the Strapi documentation, or view our documentation live:
 
-- [Developer docs](https://strapi.io/documentation/developer-docs/latest)
-- [User docs](https://strapi.io/documentation/user-docs/latest)
+- [Developer docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
+- [User docs](https://strapi.io/documentation/user-docs/latest/getting-started/introduction.html)
 
 ## Try live demo
 
